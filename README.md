@@ -1,8 +1,8 @@
 # Soil_classification_basicprogram
 A basic C++ program to determine the soil type based on the soil texture and granule size 
 
-The function soiltype takes the clay, silt and sand percentages and based on the values returns the soil type
-The function particlesoil takes the diameter of the particle size and returns the soil type
+The function soiltype takes the clay, silt and sand percentages and based on the values returns the soil type.
+The function particlesoil takes the diameter of the particle size and returns the soil type.
 In the main function, the user is asked to input the clay, silt and sand percentages and the particle diameter in mm and if the outputs of the two functions match, the output is displayed, else an error message is displayed.
 
 References used:
